@@ -1,21 +1,33 @@
 # Dom exercise
+Este repositorio permite explorar las distintas formas de manipulación del DOM en JavaScript y crear un proyecto que facilita la interacción del usuario con la interfaz gráfica, permitiéndole modificar la apariencia de una tarjeta mediante la manipulación del DOM. Al pulsar sobre los botones de color (rojo, gris y negro), se efectúan modificaciones en la imagen, en el fondo de la tarjeta y en los tonos de los botones.
 
-Este repositorio nos servirá como base para coonocer los diferente tipos de Dom que tenemos en javascript y construir de tal forma un proyecto que podría ser real. También, a parte de la explicación recibida en clase, las coder deberán realizar una refactorización del código que tenga después de la explicación y la realización de los test de cada función.
+## Imagem del Proyecto
 
-El proyecto ya esta realizado con la arquitectura adecuada para su funcionamiento.
 
 ## Requisitos para el funcionamiento actual
-
 - Visual Studio Code
 
-## Requisitos para realizar el testing
+## Tecnologías Empleadas
+    - HTML
+    - CSS
+    - JavaScript
 
-- El testing se deberá de realizar en [vitest](https://vitest.dev/guide/)
-- Una vez instalado deberás poner en este **readme** (que deberás modificar), el proceso para que una persona que llegué al repositorio pueda hacer correr los test
+## Requisitos para el Funcionamiento Actual
+    - Visual Studio Code
 
-## Requisitos del Readme
+## Requisitos para Realizar el Testing
+    1. Clonar el repositorio
+        Hacer git clone del repositorio https://github.com/FemCoders-BCN/dom-exercise-debora-smb
+    2.Para poder ejecutar los test has de tener instalado Node.js. Versión LTS. Puedes comprobar que lo tienes instalado con el comando:
+        node -v
+    3.Una vez instalado Node.js, has de instalar las dependencias del proyecto (en la carpeta donde tienes todos los documentos del proyecto clonado) con el comando:
+        npm install
+            O
+        npm i
+    5-Ejecución de los test utilizando Vitest. Para ejecutar los test has de ejecutar el comando:
+        npm test
+        o
+        npm t
 
-- DEBERÁ llevar una breve descripción del proyecto
-- DEBERÁ lleva las imágenes que muestren el proyecto
-- DEBERÁ llevar las tecnologías empleadas
-- DEBERÁ llevar como se debe hacer el proceso para instalar todo lo necesario para que se corran los test (instalar nodejs, hacer npm install  o npm i)
+## Captura pantalla testing
+<!-- inserir imagen test -->
