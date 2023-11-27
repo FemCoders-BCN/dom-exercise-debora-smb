@@ -3,6 +3,7 @@ Este repositorio permite explorar las distintas formas de manipulación del DOM 
 
 ## Imagem del Proyecto
 
+![Imagen proyecto](https://github.com/FemCoders-BCN/dom-exercise-debora-smb/assets/149697778/059811be-8cc7-41d4-9fd6-75280be9b805)
 
 ## Requisitos para el funcionamiento actual
 - Visual Studio Code
